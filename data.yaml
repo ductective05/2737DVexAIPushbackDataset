@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['Robot', 'Robot_Parked', 'V5_BLUE', 'V5_RED', 'blueingoal', 'blueinloader', 'redingoal', 'redloader']
+
+roboflow:
+  workspace: earlyriser21v5gamepiece
+  project: 2737d-ai-model-simple
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/earlyriser21v5gamepiece/2737d-ai-model-simple/dataset/1
