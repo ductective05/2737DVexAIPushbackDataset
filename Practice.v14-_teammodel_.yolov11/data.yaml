@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 18
+names: ['Autolimit', 'Full', 'Goal', 'Loader', 'Low_goal', 'Med_goal', 'Parking - B', 'Parking - Part', 'Parking-R', 'Robot', 'V5_BLUE', 'V5_RED', 'blueingoal', 'blueinrobot', 'pieces', 'redingoal', 'redinrobot', 'redloader']
+
+roboflow:
+  workspace: earlyriser21v5gamepiece
+  project: practice-iezzk
+  version: 14
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/earlyriser21v5gamepiece/practice-iezzk/dataset/14
