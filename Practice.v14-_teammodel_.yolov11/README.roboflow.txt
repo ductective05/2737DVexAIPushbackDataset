@@ -1,8 +1,8 @@
 
-Practice - v14 _Teammodel_
+Practice - v15 Updated will test model on jetson
 ==============================
 
-This dataset was exported via roboflow.com on February 2, 2026 at 5:16 AM GMT
+This dataset was exported via roboflow.com on February 2, 2026 at 8:43 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 629 images.
+The dataset includes 2355 images.
 Pieces are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:

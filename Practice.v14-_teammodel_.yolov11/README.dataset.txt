@@ -1,4 +1,4 @@
-# Practice > _Teammodel_
+# Practice > Updated will test model on jetson
 https://universe.roboflow.com/earlyriser21v5gamepiece/practice-iezzk
 
 Provided by a Roboflow user
